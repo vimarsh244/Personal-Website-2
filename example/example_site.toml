@@ -38,15 +38,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   #   h3: sub-sub-heading blocks
   #   body: non-heading text on the page
   #   code: text inside code blocks
-  [site.fonts]
-  site = 'Nunito'
-  navbar = ''
-  title = 'Montserrat'
-  h1 = 'Montserrat'
-  h2 = 'Montserrat'
-  h3 = 'Montserrat'
-  body = ''
-  code = ''
+
 
   ## Custom Element Injection ##
   # defined as an array of tables [[site.inject]], followed by 'head' or 'body' to set 
