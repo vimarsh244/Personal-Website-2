@@ -23,6 +23,9 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   [[site.meta]]
   name = "description"
   content = "A 16 Y/o Maker and Learner."
+  [[site.meta]]
+  name="og:image"
+  content = "https://personl-website-from-notion.vercel.app/e65ae198c7128c66bacc925de512a3920e767a40.png"
 
   ## Custom Fonts ##
   # you can specify the name of a google font to use on the site - use the font embed name
