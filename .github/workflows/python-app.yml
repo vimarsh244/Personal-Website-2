@@ -35,7 +35,7 @@ jobs:
         
     - name: Do the notion website deployment thing
       run: |
-        python loconotion example\example_site.toml
+        python loconotion ./example/example_site.toml
     - name: Comitting the stuff changed
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
