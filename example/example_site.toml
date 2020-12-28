@@ -53,7 +53,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   rel="icon" 
   #sizes="16x16"
   type="image/png"
-  href="https://personl-website-from-notion.vercel.app/e65ae198c7128c66bacc925de512a3920e767a40.png"
+  href="./example/favicon.png"
   
   # the following injects this tag in the in the <body>:
   #   <script src="custom-script.js" type="text/javascript"></script>
