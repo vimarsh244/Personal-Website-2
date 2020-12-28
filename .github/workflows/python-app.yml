@@ -3,10 +3,9 @@
 name: Python notion deployment
 
 on:
-  push:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'  # every day at midnight
+    - cron: '0 0 * * 5'
 
 jobs:
   build:
