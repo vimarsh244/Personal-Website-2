@@ -129,7 +129,7 @@ class Parser:
         custom_slug = self.get_page_config(url).get("slug", None)
         if custom_slug:
             log.debug(f"Custom slug found for url '{url}': '{custom_slug}'")
-            return custom_slug.strip("/") + ("" if extension else "")
+            return custom_slug.strip("/") + (".html" if extension else "")
         else:
             # if not, clean up the existing slug
             path = urllib.parse.urlparse(url).path.strip("/")
