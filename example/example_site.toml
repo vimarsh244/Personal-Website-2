@@ -43,10 +43,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   #   code: text inside code blocks
 
   [site.fonts]
-  site = 'Comic Sans'
-  navbar = 'Comic Sans'
   title = 'Oswald'
-  code = 'Roboto'
   
   ## Custom Element Injection ##
   # defined as an array of tables [[site.inject]], followed by 'head' or 'body' to set 
@@ -89,3 +86,8 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
     [[pages.0b0f2f8c92ae468fa60b2a1a15269b89.meta]] 
     name = "description"
     content = "A few projects I have made."
+    
+    
+    [[pages.0b0f2f8c92ae468fa60b2a1a15269b89.meta]]
+    name="og:image"
+    content = "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/059681f8-2b77-4496-9be8-762b9044ee1c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201230%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201230T141057Z&X-Amz-Expires=86400&X-Amz-Signature=9d5f8f6d328f6cf03d445a48267312eb7fc1db32a124612ea62a4b13a6221c93&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22"
