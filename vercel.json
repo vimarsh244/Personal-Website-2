@@ -1,0 +1,16 @@
+{
+	"redirects": [{
+			"source": "/blog",
+			"destination": "/blog.html"
+		},
+		{
+			"source": "/projects",
+			"destination": "projects.html",
+			"permanent": false
+		},
+		{
+			"source": "/view-source",
+			"destination": "https://github.com/vercel/vercel"
+		}
+	]
+}
