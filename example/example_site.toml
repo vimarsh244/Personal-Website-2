@@ -43,7 +43,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   #   code: text inside code blocks
 
   [site.fonts]
-  site = 'Oswald'
+  site = 'Comic Sans'
   navbar = 'Comic Sans'
   title = 'Oswald'
   code = 'Roboto'
