@@ -1,6 +1,12 @@
 {
-  "cleanUrls": true,
   "github": {
     "silent": true
-  }
+  },
+  "redirects": [
+    { "source": "/index", "destination": "/index.html" },
+    { "source": "/projects", "destination": "/projects.html" },
+    { "source": "/blog", "destination": "/blog.html" },
+    { "source": "/404", "destination": "/404.html" },
+    { "source": "/study", "destination": "https://www.notion.so/Study-Material-f587fb141a084f33a017a0cee59de811" }
+  ]
 }
