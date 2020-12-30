@@ -42,7 +42,16 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   #   body: non-heading text on the page
   #   code: text inside code blocks
 
-
+  [site.fonts]
+  site = 'Oswald'
+  navbar = ''
+  title = 'Oswald'
+  h1 = 'Oswald'
+  h2 = 'Oswald'
+  h3 = 'Oswald'
+  body = 'Open Sans'
+  code = 'Roboto'
+  
   ## Custom Element Injection ##
   # defined as an array of tables [[site.inject]], followed by 'head' or 'body' to set 
   # the injection point, followed by name of the tag to inject
@@ -74,7 +83,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
     ## custom slugs ##
     # inside page settings, you can change the url for that page with the 'slug' key
     # e.g. page "/d2fa06f244e64f66880bb0491f58223d" will now map to "/games-list"
-    slug = "projects"
+    #slug = "projects"
 
     # change the description meta tag for this page only
     [[pages.0b0f2f8c92ae468fa60b2a1a15269b89.meta]] 
