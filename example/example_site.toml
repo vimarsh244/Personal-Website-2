@@ -25,7 +25,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   content = "A 16 Y/o Maker and Learner."
   [[site.meta]]
   name="og:image"
-  content = "https://personl-website-from-notion.vercel.app/e65ae198c7128c66bacc925de512a3920e767a40.png"
+  content = "https://personl-website-from-notion.vimarsh.vercel.app/8708216cca9861294e802601565cf720f258f57b.png"
 
   ## Custom Fonts ##
   # you can specify the name of a google font to use on the site - use the font embed name
@@ -72,7 +72,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
 [pages]
   # the following settings will only apply to this page: https://www.notion.so/Projects-0b0f2f8c92ae468fa60b2a1a15269b89
   #   https://www.notion.so/d2fa06f244e64f66880bb0491f58223d
-  [pages.0b0f2f8c92ae468fa60b2a1a15269b89]
+  #[pages.0b0f2f8c92ae468fa60b2a1a15269b89]
     ## custom slugs ##
     # inside page settings, you can change the url for that page with the 'slug' key
     # e.g. page "/d2fa06f244e64f66880bb0491f58223d" will now map to "/games-list"
@@ -82,12 +82,30 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
     [[pages.0b0f2f8c92ae468fa60b2a1a15269b89.meta]] 
     name = "title"
     content = "Projects - Vimarsh Shah"
-
     [[pages.0b0f2f8c92ae468fa60b2a1a15269b89.meta]] 
     name = "description"
-    content = "A few projects I have made."
-    
-    
+    content = "A few projects I have made."    
     [[pages.0b0f2f8c92ae468fa60b2a1a15269b89.meta]]
     name="og:image"
-    content = "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/059681f8-2b77-4496-9be8-762b9044ee1c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201230%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201230T141057Z&X-Amz-Expires=86400&X-Amz-Signature=9d5f8f6d328f6cf03d445a48267312eb7fc1db32a124612ea62a4b13a6221c93&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22"
+    content = "https://personl-website-from-notion.vimarsh.vercel.app/6af4137ddfdfa82d6a8d57ffb8624d5562bc19b8.png"
+    
+    
+    [[pages.2c375590f668416caa545bc140f6ebf3.meta]]    
+    name = "title"
+    content = "Fastest Way to install Wordpress  | Vimarsh's Blog"
+    [[pages.2c375590f668416caa545bc140f6ebf3.meta]]
+    name = "description"
+    content = "I will be showing you the fastest way to install a fully functional WordPress website with an auto-renewing free SSL certificate in less than 3 commands. Using EasyEngine."
+    [[pages.2c375590f668416caa545bc140f6ebf3.meta]]
+    name = "og:image"
+    content="https://personl-website-from-notion.vimarsh.vercel.app/750b07f53122ff159a0216ddb8e230aa5b77caad.jpeg"
+    
+    [[pages.44473a71bfac4a6a95e7d0494a0c4d88.meta]]    
+    name = "title"
+    content = "Vimarsh's Blog"
+    [[pages.44473a71bfac4a6a95e7d0494a0c4d88.meta]]
+    name = "description"
+    content = "Learn about tech, coding, cloud hosting and some updates on various experiments and me."
+    [[pages.44473a71bfac4a6a95e7d0494a0c4d88.meta]]
+    name = "og:image"
+    content="https://personl-website-from-notion.vimarsh.vercel.app/fa9e6a62cb2ef6e92eb97c80d226f9b67c89c718.jpg"
