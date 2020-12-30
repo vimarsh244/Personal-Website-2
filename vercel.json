@@ -1,7 +1,0 @@
-{
-  "cleanUrls": true,
-  
-  "redirects": [
-    { "source": "/study", "destination": "https://www.notion.so/Study-Material-f587fb141a084f33a017a0cee59de811" },
-  ]
-}
