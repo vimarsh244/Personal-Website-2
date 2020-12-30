@@ -44,12 +44,8 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
 
   [site.fonts]
   site = 'Oswald'
-  navbar = ''
+  navbar = 'Comic Sans'
   title = 'Oswald'
-  h1 = 'Oswald'
-  h2 = 'Oswald'
-  h3 = 'Oswald'
-  body = 'Open Sans'
   code = 'Roboto'
   
   ## Custom Element Injection ##
