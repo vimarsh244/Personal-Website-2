@@ -1,3 +1,11 @@
+Cloned from https://github.com/leoncvlt/loconotion
+
+Using it to create my own personal website. Made a Github action script for automated deployments.
+Check it out!
+
+The below readme is from loconotion repo.
+---
+
 # Loconotion
 
 **Loconotion** is a Python script that parses a [Notion.so](https://notion.so) public page (alongside with all of its subpages) and generates a lightweight, customizable static site out of it.
