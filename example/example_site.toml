@@ -63,8 +63,7 @@ page = "https://www.notion.so/Vimarsh-Shah-31a963978d6e40eaa25eea18ac715224"
   # regardless of their original path
   #[[site.inject.body.script]]
   type="text/javascript"
-  src="https://cdn.vimarsh.info/app.js"
-
+  src="/example/custom-script.js"
 ## Individual Page Settings ##
 # the [pages] table defines override settings for individual pages, by defining 
 # a sub-table named after the page url (or part of the url, but careful about
